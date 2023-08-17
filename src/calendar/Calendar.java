@@ -866,7 +866,7 @@ public class Calendar extends JFrame {
             case "JULY":
                 monthindex = 7;
                 break;
-            case "AUGEST":
+            case "AUGUST":
                 monthindex = 8;
                 break;
             case "CEPTEMBER":
